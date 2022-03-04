@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x130CfcD3d22b4C5cf2Cd99f0d1BC536E8A0Da038",
+  "SCAN_LINK": "https://polygonscan.com/address/0x130cfcd3d22b4c5cf2cd99f0d1bc536e8a0da038",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AZUKI SKULLHEAD MALE",
+  "SYMBOL": "ASM",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.35,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skullheadmale",
+  "SHOW_BACKGROUND": true
+}
